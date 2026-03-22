@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+.env
+.venv/
+
+# SQLite
+*.db
+*.sqlite3
+
+# Alembic cache
+alembic/versions/__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+app/api/routes/__pycache__/ws.cpython-310.pyc
