@@ -1,7 +1,20 @@
-venv/
-.venv/
-.git/
-__pycache__/
-.vscode/
+# virtual environments
+.venv
+venv
+env
+__pycache__
 *.pyc
+
+# ide
+.vscode/
+.pycharm/
+
+# confidential files
 .env
+
+# docs
+README.md
+
+# git
+.gitignore
+.git
